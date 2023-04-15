@@ -1,0 +1,1 @@
+const nicoButton = "dinner time"
